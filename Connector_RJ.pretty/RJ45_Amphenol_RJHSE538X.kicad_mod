@@ -1,4 +1,4 @@
-(module RJ45_Amphenol_RJHSE538X (layer F.Cu) (tedit 5AD3662E)
+(module Connector_RJ:RJ45_Amphenol_RJHSE538X (layer F.Cu) (tedit 5AF95637)
   (descr "Shielded, 2 LED, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf")
   (tags "RJ45 8p8c ethernet cat5")
   (fp_text reference REF** (at 3.56 -9.5) (layer F.SilkS)
