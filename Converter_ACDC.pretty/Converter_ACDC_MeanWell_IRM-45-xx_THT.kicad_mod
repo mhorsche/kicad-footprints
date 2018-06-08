@@ -1,10 +1,10 @@
-(module Converter_ACDC:Converter_ACDC_MeanWell_IRM-60-xx_THT (layer F.Cu) (tedit 5B02BAF0)
-  (descr http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-60)
-  (tags "60W Single Output Encapsulated Type")
+(module Converter_ACDC:Converter_ACDC_MeanWell_IRM-45-xx_THT (layer F.Cu) (tedit 5B02BADF)
+  (descr http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-45)
+  (tags "45W Single Output Encapsulated Type")
   (fp_text reference REF** (at 37.75 -12.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Converter_ACDC_MeanWell_IRM-60-xx_THT (at 37.75 41.4) (layer F.Fab)
+  (fp_text value Converter_ACDC_MeanWell_IRM-45-xx_THT (at 37.75 41.4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.3 -1) (end -5.3 -11.75) (layer F.Fab) (width 0.1))
@@ -30,7 +30,7 @@
   (pad 4 thru_hole circle (at 76 34.5) (size 4 4) (drill 2.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -6.75) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 76 29) (size 4 4) (drill 2.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_MeanWell-IRM-60-XX.wrl
+  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_MeanWell-IRM-45-XX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
