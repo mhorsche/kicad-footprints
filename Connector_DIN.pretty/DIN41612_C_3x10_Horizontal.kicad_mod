@@ -1,4 +1,4 @@
-(module DIN41612_C_3x10_Horizontal (layer F.Cu) (tedit 5AE3452B)
+(module DIN41612_C_3x10_Horizontal (layer F.Cu) (tedit 5B5D6E0E)
   (descr "DIN 41612 Male 90°, type C 30, 103-80004")
   (tags "connector DIN 41612 C 30")
   (fp_text reference REF** (at 14.605 -6.62) (layer F.SilkS)
@@ -66,7 +66,7 @@
   (pad A10 thru_hole circle (at -11.43 -5.3 180) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -16.51 -2.76) (size 2.8 2.8) (drill 2.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 16.51 -2.76) (size 2.8 2.8) (drill 2.8) (layers *.Cu *.Mask))
-  (model Connector_EPT.3dshapes/EPT_DIN41612_103_80004_3x10_P2.54mm_Male_Horizontal.wrl
+  (model ${KISYS3DMOD}/Connector_EPT.3dshapes/EPT_DIN41612_103-80004_3x10_P2.54mm_Male_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

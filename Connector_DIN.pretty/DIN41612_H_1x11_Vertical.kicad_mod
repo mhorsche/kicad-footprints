@@ -1,4 +1,4 @@
-(module DIN41612_H_1x11_Vertical (layer F.Cu) (tedit 5AF1C959)
+(module DIN41612_H_1x11_Vertical (layer F.Cu) (tedit 5B5D6E79)
   (descr "DIN 41612 connector, type H, vertical, 11 pins wide, 1 row")
   (tags "DIN 41512 IEC 60603 H11")
   (fp_text reference REF** (at 0 -48.895) (layer F.SilkS)
@@ -64,7 +64,7 @@
   (pad A8 thru_hole circle (at 2.54 21.59) (size 2.4 2.4) (drill 1.6) (layers *.Cu *.Mask))
   (pad A5 thru_hole circle (at 2.54 29.21) (size 2.4 2.4) (drill 1.6) (layers *.Cu *.Mask))
   (pad A2 thru_hole circle (at 2.54 36.83) (size 2.4 2.4) (drill 1.6) (layers *.Cu *.Mask))
-  (model Connector_EPT.3dshapes/EPT_DIN41612_114-40050_1x11_P7.62mm_Female_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_EPT.3dshapes/EPT_DIN41612_114-40050_1x11_P7.62mm_Female_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

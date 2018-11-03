@@ -1,4 +1,4 @@
-(module DIN41612_C_3x10_Vertical (layer F.Cu) (tedit 5AE338A2)
+(module DIN41612_C_3x10_Vertical (layer F.Cu) (tedit 5B5D6E5E)
   (descr "DIN 41612 Female straight, C30, 304-80064")
   (tags "connector DIN 41612 C 30")
   (fp_text reference REF** (at 0 -20.32) (layer F.SilkS)
@@ -68,7 +68,7 @@
   (pad A8 thru_hole circle (at 2.54 -6.35 270) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad A9 thru_hole circle (at 2.54 -8.89 270) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad A10 thru_hole circle (at 2.54 -11.43 270) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
-  (model Connector_EPT.3dshapes/EPT_DIN41612_304-80064-05_3x10_P2.54mm_Female_Vertical.wrl
+  (model ${KISYS3DMOD}/Connector_EPT.3dshapes/EPT_DIN41612_304-80064-05_3x10_P2.54mm_Female_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
