@@ -1,10 +1,10 @@
-(module Transformer_Wuerth_WE-LAN_12.95x9.65mm_P1.27mm (layer F.Cu) (tedit 5C07DB76)
+(module Transformer_Wuerth_WE-LAN_16.00x18.29mm_P1.27mm (layer F.Cu) (tedit 5C07DB7C)
   (descr "LAN-Transformer WE-LAN 10/100 BaseT PoE")
   (tags "LAN Transformer WE-LAN PoE")
   (fp_text reference TR101 (at 7.2 -1.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value 7490220120 (at 7.2 15.5) (layer F.SilkS)
+  (fp_text value 7490220120 (at 7.2 15.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 13.4 -0.6) (end -1.1 -0.6) (layer F.SilkS) (width 0.15))
